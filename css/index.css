@@ -21,3 +21,8 @@
 .fa-linkedin{
     color: black;
 }
+
+.social-media-items{
+    list-style-type: none;
+    display: inline-flex;
+}
