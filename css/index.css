@@ -1,13 +1,8 @@
-.fa-github, .fa-linkedin, .fa-phone-square, .icoPhone{
+.fa-github, .fa-linkedin, .fa-phone-square, .fa-envelope-square, .icoPhone{
     color: black;
 }
 
-.social-media-items{
-    list-style-type: none;
-    display: inline-flex;
+.social-media{
+    margin-top: 144px;
 
 }
-
-/*.navOne, .navTwo, .navThree{*/
-/*    margin-right: 190px;*/
-/*}*/
