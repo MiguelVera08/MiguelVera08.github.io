@@ -22,7 +22,16 @@
     color: black;
 }
 
+.fa-phone-square{
+    color: black;
+}
+
+.icoPhone{
+    color: black;
+}
+
 .social-media-items{
     list-style-type: none;
     display: inline-flex;
+
 }
