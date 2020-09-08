@@ -12,3 +12,7 @@
     height: 360px;
 
 }
+
+.experience-section, ul{
+    list-style: none;
+}
