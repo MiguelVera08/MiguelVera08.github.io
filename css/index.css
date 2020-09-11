@@ -2,6 +2,18 @@
     box-sizing: border-box;
 }
 
+.navbar{
+    background-color: #14453D !important;
+}
+
+.wrapper{
+    background-color: #3D7068;
+}
+
+.nav-link{
+    color: #F0C808 !important;
+}
+
 
 
 .fa-github, .fa-linkedin, .fa-phone-square, .fa-envelope-square, .icoPhone{
