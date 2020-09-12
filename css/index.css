@@ -14,12 +14,18 @@ body{
     width: 100%;
 }
 
-.wrapper{
-    background-color: #3D7068;
-}
+/*.wrapper{*/
+/*    background-color: #3D7068;*/
+/*}*/
 
 .nav-link{
     color: #F0C808 !important;
+}
+
+.video-background{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
 }
 
 
@@ -49,7 +55,7 @@ body{
     object-fit: cover;
 }
 
-.experience-section, ul{
+.experience-section ul{
     list-style: none;
     margin-left: 0;
     padding: 0;
