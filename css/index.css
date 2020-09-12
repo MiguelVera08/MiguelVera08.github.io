@@ -4,6 +4,8 @@
 
 .navbar{
     background-color: #14453D !important;
+    display: none;
+    position: fixed;
 }
 
 .wrapper{
