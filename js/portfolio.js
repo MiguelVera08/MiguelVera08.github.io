@@ -1,13 +1,12 @@
-//jQuery to hide and fadein navbar
+// jQuery to hide and fadein navbar
 (function($) {
     $(document).ready(function(){
         $(window).scroll(function(){
             if ($(this).scrollTop() > 200) {
-                $('#menu').fadeIn(500);
+                $('.navbar').fadeIn(500);
             } else {
-                $('#menu').fadeOut(500);
+                $('.navbar').fadeOut(500);
             }
         });
     });
 })(jQuery);
-
