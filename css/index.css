@@ -14,9 +14,10 @@ body{
     width: 100%;
 }
 
-/*.wrapper{*/
-/*    background-color: #3D7068;*/
-/*}*/
+#experience{
+    margin-top: 144px;
+    margin-bottom: 144px;
+}
 
 .nav-link{
     color: #F0C808 !important;
