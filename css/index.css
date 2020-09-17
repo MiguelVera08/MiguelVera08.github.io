@@ -37,6 +37,17 @@ body{
     min-height: 100vh;
 }
 
+.caption{
+    position: absolute;
+    top: 38%;
+    width: 100%;
+}
+
+.caption h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
 
 
 .fa-github, .fa-linkedin, .fa-phone-square, .fa-envelope-square, .icoPhone{
