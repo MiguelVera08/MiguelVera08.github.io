@@ -39,17 +39,20 @@ body{
 
 .caption{
     position: absolute;
-    top: 38%;
+    top: 20%;
     width: 100%;
 }
 
-.caption h1{
-    font-size: 3rem;
-    font-weight: 700;
-}
+/*.caption h1{*/
+/*    font-size: 3rem;*/
+/*    font-weight: 700;*/
+/*}*/
 
 .circle-img{
-
+    height: 250px;
+    width: 260px;
+    max-width: 100%;
+    border-radius: 50%;
 }
 
 
