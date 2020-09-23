@@ -76,6 +76,16 @@ body{
     transform: translateY(100%);
 }
 
+.hide{
+    background: black;
+    overflow: hidden;
+}
+
+.hide span {
+    transform: translateY(100%);
+    display: inline-block;
+}
+
 
 
 .fa-github, .fa-linkedin, .fa-phone-square, .fa-envelope-square, .icoPhone{
