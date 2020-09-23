@@ -76,7 +76,7 @@ body{
     transform: translateY(100%);
 }
 
-.hide{
+.hide {
     background: black;
     overflow: hidden;
 }
