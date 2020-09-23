@@ -9,7 +9,7 @@ body{
 .navbar{
     background-color: #14453D !important;
     top: 0;
-    display: none;
+    /*display: none;*/
     position: fixed;
     width: 100%;
 }

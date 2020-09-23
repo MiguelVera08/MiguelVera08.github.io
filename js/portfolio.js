@@ -1,14 +1,14 @@
-// jQuery to hide and fadein navbar
+// Particles js
 
 
-(function($) {
-    $(document).ready(function(){
-        $(window).scroll(function(){
-            if ($(this).scrollTop() > 845) {
-                $('.navbar').fadeIn(500);
-            } else {
-                $('.navbar').fadeOut(500);
-            }
-        });
-    });
-})(jQuery);
+// (function($) {
+//     $(document).ready(function(){
+//         $(window).scroll(function(){
+//             if ($(this).scrollTop() > 845) {
+//                 $('.navbar').fadeIn(500);
+//             } else {
+//                 $('.navbar').fadeOut(500);
+//             }
+//         });
+//     });
+// })(jQuery);
