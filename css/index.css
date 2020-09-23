@@ -31,25 +31,13 @@ body{
     color: #F0C808 !important;
 }
 
-.video-background{
-    position: relative;
-    width: 100%;
-    min-height: 100vh;
-}
-
 .caption{
     position: absolute;
     top: 20%;
     width: 100%;
 }
 
-.circle-img{
-    height: 250px;
-    width: 260px;
-    max-width: 100%;
-    border-radius: 50%;
-}
-
+/*CSS for Landing Page effects*/
 .intro{
     background: black;
     position: fixed;
