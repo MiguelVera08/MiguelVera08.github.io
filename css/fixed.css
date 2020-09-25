@@ -40,11 +40,9 @@
 /*    background-size: cover;*/
 /*    transition: 1s opacity;*/
 /*}*/
-body{
-    /*margin:0;*/
-    /*font:normal 75% Arial, Helvetica, sans-serif;*/
-}
 
+
+/*CSS for particles.js*/
 canvas {
     display: block;
     vertical-align: bottom;
@@ -53,7 +51,7 @@ canvas {
 #particles-js{
     position:relative;
     width: 100%;
-    height: 100vmax !important;
+    /*height: 100vmax !important;*/
     min-height: 100vh;
     background-color: #232741;
 }
